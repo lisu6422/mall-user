@@ -1,0 +1,1 @@
+insert into tw_mall_user.users values(1, "user1", "$2a$10$daLyBKb0q4WP9RWQ.KB4bu1wUd3mXbGP4oqAaB/AoH9XnTrMcF7NW", "ADMIN");
